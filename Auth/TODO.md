@@ -1,0 +1,4 @@
+- [x] Fix render in app.js to 'index' instead of 'Welcome'
+- [x] Add POST /create route to handle form submission
+- [x] Add error handling for mongoose connection in user.js
+- [ ] Test the app by running it
